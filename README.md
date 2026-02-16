@@ -1,5 +1,5 @@
 #  📊 Business Performance Analysis Dashboard
-📊 Business Performance Analysis Dashboard
+
 🚀 Project Summary
 
 This project showcases an end-to-end data analysis workflow focused on transforming raw business data into actionable insights. The analysis emphasizes revenue performance, trend identification, and business decision support through an interactive dashboard.
@@ -49,6 +49,12 @@ Key steps performed:
 ✔ Creation of calculated measures
 
 This ensured analytical accuracy and reporting reliability.
+
+
+
+
+<img width="966" height="560" alt="Data Professional Suvery Breakdown" src="https://github.com/user-attachments/assets/f1f52c90-8849-4e1b-8774-8b1513742390" />
+
 
 📈 Key Metrics & KPIs
 
