@@ -54,7 +54,8 @@ ________________________________________
 
 
 
-#### ![power_bi_finan_project](https://github.com/user-attachments/assets/dd908b3d-c5f2-4c84-95ff-e8ff43403801)
+#### 
+<img width="1117" height="564" alt="power bi finan project" src="https://github.com/user-attachments/assets/92e3f26f-a411-4a18-8cd2-e53fdf496c2f" />
 
 
 ##### 📈 Key Metrics & KPIs
