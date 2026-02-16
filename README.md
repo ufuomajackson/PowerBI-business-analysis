@@ -109,13 +109,8 @@ This project demonstrates the ability to:
 ✔ Performed structured data modeling
 ✔ Delivered business-oriented insights
 
-📎 Repository Contents
 
-Dataset (Excel)
 
-Power BI Report / Dashboard
-
-Project Documentation
 
 👤 Author
 
