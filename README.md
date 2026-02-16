@@ -54,7 +54,7 @@ ________________________________________
 
 
 
-#### [Power BI - Final Project Dataset.xlsx](https://github.com/user-attachments/files/25336481/Power.BI.-.Final.Project.Dataset.xlsx)
+#### ![power_bi_finan_project](https://github.com/user-attachments/assets/dd908b3d-c5f2-4c84-95ff-e8ff43403801)
 
 
 ##### 📈 Key Metrics & KPIs
