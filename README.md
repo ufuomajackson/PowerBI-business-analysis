@@ -55,7 +55,8 @@ ________________________________________
 
 
 #### 
-<img width="1117" height="564" alt="power bi finan project" src="https://github.com/user-attachments/assets/92e3f26f-a411-4a18-8cd2-e53fdf496c2f" />
+
+<img width="966" height="560" alt="Data Professional Suvery Breakdown" src="https://github.com/user-attachments/assets/1c8c1fb8-6b8e-4f63-89a7-6d0d794f8a87" />
 
 
 ##### 📈 Key Metrics & KPIs
