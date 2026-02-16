@@ -54,10 +54,10 @@ ________________________________________
 
 
 
-[Power BI - Final Project Dataset.xlsx](https://github.com/user-attachments/files/25336481/Power.BI.-.Final.Project.Dataset.xlsx)
+#### [Power BI - Final Project Dataset.xlsx](https://github.com/user-attachments/files/25336481/Power.BI.-.Final.Project.Dataset.xlsx)
 
 
-📈 Key Metrics & KPIs
+##### 📈 Key Metrics & KPIs
 The dashboard evaluates core business indicators:
 •	Total Revenue
 •	Revenue Trends
@@ -65,7 +65,7 @@ The dashboard evaluates core business indicators:
 •	Segment Contribution
 •	Comparative Performance Analysis
 ________________________________________
-📊 Dashboard Capabilities
+###### 📊 Dashboard Capabilities
 The Power BI dashboard provides:
 ✅ Interactive filtering & slicers
 ✅ Dynamic KPI tracking
